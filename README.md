@@ -11,8 +11,10 @@ WFS layer attribute table).
 Here are some screenshots of the simple beginnings of the app:
 
 
-<img width="575" alt="screen shot 2017-09-17 at 11 34 09 pm" src="https://user-images.githubusercontent.com/178003/30522835-d77593a8-9c00-11e7-9b58-1162c7e346fc.png">
 <img width="554" alt="screen shot 2017-09-17 at 11 33 49 pm" src="https://user-images.githubusercontent.com/178003/30522837-da701452-9c00-11e7-8420-1a3c19cf3ed2.png">
+
+
+<img width="575" alt="screen shot 2017-09-17 at 11 34 09 pm" src="https://user-images.githubusercontent.com/178003/30522835-d77593a8-9c00-11e7-9b58-1162c7e346fc.png">
 
 
 License: BSD
